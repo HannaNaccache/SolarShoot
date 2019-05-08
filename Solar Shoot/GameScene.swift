@@ -26,7 +26,7 @@ var gameScore = 0
 
 
 //Cette variable est publique à toutes les scene
-var lvlNumber : Int = 1
+var lvlNumber : Int = 1 // lvl actuel du joueur 
 //let defaults1 = UserDefaults()
 //set(_ value: lvlNumber1,forKey defaultName: "lvlNumber1")
 //var lvlNumber = defaults1.integer(forKey: "lvlNumber1")
